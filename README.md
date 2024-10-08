@@ -1,1 +1,1 @@
-# -Linux-Fundamentals-ITEC-200
+# Linux-Fundamentals-ITEC-200
