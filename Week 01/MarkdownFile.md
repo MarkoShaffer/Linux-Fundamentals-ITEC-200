@@ -1,18 +1,9 @@
 # Chapter 2: Lab Accessing the Command Line
-
 Marko Shaffer
-
-Information Technology, Franklin University
-
-ITEC 200: Linux Fundamentals
-
-Professor Kagan Ulucay
-
 5/28/2023
-
-# Red Hat System Administration I 8.2
-
-# Chapter 2 - Lab Accessing the Command Line
+Information Technology, Franklin University
+ITEC 200: Linux Fundamentals
+# Red Hat System Administration I (8.2) - Chapter 2 - Lab Accessing the Command Line
 
 Performance Checklist:
 
