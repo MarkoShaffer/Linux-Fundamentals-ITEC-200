@@ -24,6 +24,6 @@ Log in to the workstation as username student using student as the passwor
 | Password | redhat | student | redhat |
 
 On the workstation, run the lab cli-review start script to set up a clean lab environment. The script also copies the zcat file to the student's home directory.
-'''
+```
 \[student@workstation ~\]$ lab cli-review start
-'''
+```
